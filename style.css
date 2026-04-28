@@ -32,7 +32,7 @@
   html { scroll-behavior: smooth; }
 
   body {
-    font-family: 'DM Mono', monospace;
+    font-family: 'Inter', sans-serif;
     background: var(--bg);
     color: var(--text);
     line-height: 1.6;
@@ -86,7 +86,7 @@
     background: none;
     border: 1px solid var(--border2);
     color: var(--text2);
-    font-family: 'DM Mono', monospace;
+    font-family: 'Inter', sans-serif;
     font-size: 10px;
     letter-spacing: 0.15em;
     padding: 8px 14px;
@@ -123,7 +123,7 @@
     justify-content: space-between;
   }
   .nav-logo {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 18px;
     font-weight: 300;
     color: var(--text);
@@ -188,7 +188,7 @@
     display: block;
   }
   .hero-name {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: clamp(48px, 6vw, 72px);
     font-weight: 300;
     line-height: 1.0;
@@ -212,7 +212,7 @@
     animation: fadeUp 0.8s 0.6s forwards;
   }
   .hero-bio {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 18px;
     font-weight: 300;
     line-height: 1.75;
@@ -250,7 +250,7 @@
     animation: fadeUp 0.8s 0.9s forwards;
   }
   .btn {
-    font-family: 'DM Mono', monospace;
+    font-family: 'Inter', sans-serif;
     font-size: 10px;
     letter-spacing: 0.15em;
     text-transform: uppercase;
@@ -341,7 +341,7 @@
   }
   .photo-placeholder span {
     display: block;
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 48px;
     font-weight: 300;
     color: var(--text3);
@@ -410,7 +410,7 @@
   }
   .proj-body { }
   .proj-name {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 26px;
     font-weight: 400;
     line-height: 1.2;
@@ -541,7 +541,7 @@
     align-items: start;
   }
   .about-text {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 19px;
     font-weight: 300;
     line-height: 1.8;
@@ -561,7 +561,7 @@
   }
   .stat-item:hover { border-color: var(--border2); }
   .stat-num {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 42px;
     font-weight: 300;
     color: var(--accent);
@@ -584,7 +584,7 @@
     flex-wrap: wrap;
   }
   .contact-heading {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Sora', sans-serif;
     font-size: 42px;
     font-weight: 300;
     line-height: 1.1;
