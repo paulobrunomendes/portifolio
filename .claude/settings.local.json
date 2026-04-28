@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start *)",
+      "Bash(mkdir -p C:/code/portfolio_paulo_bruno/assets/logos)",
+      "Bash(cp \"C:/code/copa-medicina/frontend/public/logo.png\" C:/code/portfolio_paulo_bruno/assets/logos/copa-med.png)",
+      "Bash(cp \"C:/code/capitania-cruz-de-malte/images/favicon.png\" C:/code/portfolio_paulo_bruno/assets/logos/capitania.png)",
+      "Bash(cp \"C:/code/combustivel-app-flutter/assets/icon.png\" C:/code/portfolio_paulo_bruno/assets/logos/combustivel.png)",
+      "Bash(cp \"C:/code/Estoque Fluxo/imagens/logo estoque.png\" C:/code/portfolio_paulo_bruno/assets/logos/estoque-fluxo.png)",
+      "Bash(gh auth *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(flutter --version)",
+      "Bash(git pull *)",
+      "Bash(git -C \"C:\\\\code\\\\portfolio_paulo_bruno\" diff --stat)",
+      "Bash(git -C \"C:\\\\code\\\\portfolio_paulo_bruno\" add assets/downloads/combustivel-app.apk)",
+      "Bash(git -C 'C:\\\\code\\\\portfolio_paulo_bruno' commit -m ' *)",
+      "Bash(git *)",
+      "Bash(ssh *)",
+      "Bash(gh repo *)",
+      "Bash(gh api *)",
+      "Bash(curl *)",
+      "WebFetch(domain:paulobrunomendes.github.io)"
+    ]
+  }
+}
